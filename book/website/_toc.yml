@@ -535,6 +535,8 @@ chapters:
         sections:
           - title: Zero-to-Binder
             file: communication/binder/zero-to-binder
+      - title: Building Personal Website
+        file: communication/personal_website
 
   # ===== Guide for Collaboration ========================================
   - file: collaboration/collaboration
